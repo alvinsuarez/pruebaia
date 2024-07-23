@@ -1,0 +1,37 @@
+file_path = 'C:\\Users\\gamin\\OneDrive\\Documentos\\proyectico\\encuestas.xlsx'
+
+Contexto: Nombre o raz�n social de la empresa: ACME Inc. Direcci�n: Calle Falsa 123. Barrio/Comuna: Centro. La constituci�n de la empresa: Sociedad An�nima. Tiene establecimiento comercial: S�. Su empresa o negocio se encuentra formalizado ante las entidades respectivas?: S�. Si conoce el c�digo CIIU de la Actividad de la empresa favor escribirlo: 1234. Cantidad de empleados que tiene en la empresa: 50. Tiempo de funcionamiento de la empresa en a�os: 10.
+Pregunta: �Cu�l es el nombre de la empresa?
+Respuesta: [CLS]
+Correcta (s�/no): no
+
+Contexto: Nombre o raz�n social de la empresa: ACME Inc. Direcci�n: Calle Falsa 123. Barrio/Comuna: Centro. La constituci�n de la empresa: Sociedad An�nima. Tiene establecimiento comercial: S�. Su empresa o negocio se encuentra formalizado ante las entidades respectivas?: S�. Si conoce el c�digo CIIU de la Actividad de la empresa favor escribirlo: 1234. Cantidad de empleados que tiene en la empresa: 50. Tiempo de funcionamiento de la empresa en a�os: 10.
+Pregunta: �Cu�l es el nombre de la empresa?
+Respuesta: constitucion de la empresa :
+Correcta (s�/no): no
+
+Contexto: Nombre o raz�n social de la empresa: XYZ Corp. Direcci�n: Avenida Siempre Viva 742. Barrio/Comuna: Norte. La constituci�n de la empresa: Sociedad Limitada. Tiene establecimiento comercial: No. Su empresa o negocio se encuentra formalizado ante las entidades respectivas?: No. Si conoce el c�digo CIIU de la Actividad de la empresa favor escribirlo: 5678. Cantidad de empleados que tiene en la empresa: 20. Tiempo de funcionamiento de la empresa en a�os: 5.
+Pregunta: �Cu�l es el nombre de la empresa?
+Respuesta: xyz corp .
+Correcta (s�/no):
+
+Contexto: Nombre o raz�n social de la empresa: XYZ Corp. Direcci�n: Avenida Siempre Viva 742. Barrio/Comuna: Norte. La constituci�n de la empresa: Sociedad Limitada. Tiene establecimiento comercial: No. Su empresa o negocio se encuentra formalizado ante las entidades respectivas?: No. Si conoce el c�digo CIIU de la Actividad de la empresa favor escribirlo: 5678. Cantidad de empleados que tiene en la empresa: 20. Tiempo de funcionamiento de la empresa en a�os: 5.
+Pregunta: �Cu�l es el nombre de la empresa?
+Respuesta: xyz corp .
+Correcta (s�/no):
+
+Contexto: Nombre o raz�n social de la empresa: XYZ Corp. Direcci�n: Avenida Siempre Viva 742. Barrio/Comuna: Norte. La constituci�n de la empresa: Sociedad Limitada. Tiene establecimiento comercial: No. Su empresa o negocio se encuentra formalizado ante las entidades respectivas?: No. Si conoce el c�digo CIIU de la Actividad de la empresa favor escribirlo: 5678. Cantidad de empleados que tiene en la empresa: 20. Tiempo de funcionamiento de la empresa en a�os: 5.
+Pregunta: �Cuantos a�os lleva la empresa en operaci�n?
+Respuesta: .
+Correcta (s�/no):
+
+Contexto: Nombre o raz�n social de la empresa: XYZ Corp. Direcci�n: Avenida Siempre Viva 742. Barrio/Comuna: Norte. La constituci�n de la empresa: Sociedad Limitada. Tiene establecimiento comercial: No. Su empresa o negocio se encuentra formalizado ante las entidades respectivas?: No. Si conoce el c�digo CIIU de la Actividad de la empresa favor escribirlo: 5678. Cantidad de empleados que tiene en la empresa: 20. Tiempo de funcionamiento de la empresa en a�os: 5.
+Pregunta: �Cu�l es la direcci�n de la empresa?
+Respuesta: .
+Correcta (s�/no):
+
+Contexto: Nombre o raz�n social de la empresa: XYZ Corp. Direcci�n: Avenida Siempre Viva 742. Barrio/Comuna: Norte. La constituci�n de la empresa: Sociedad Limitada. Tiene establecimiento comercial: No. Su empresa o negocio se encuentra formalizado ante las entidades respectivas?: No. Si conoce el c�digo CIIU de la Actividad de la empresa favor escribirlo: 5678. Cantidad de empleados que tiene en la empresa: 20. Tiempo de funcionamiento de la empresa en a�os: 5.
+Pregunta: �Cu�l es la direcci�n de la empresa?
+Respuesta: .
+Correcta (s�/no):
+
